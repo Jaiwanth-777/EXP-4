@@ -9,10 +9,8 @@ THEORY: Rectifier changes ac to dc and it is an essential part of power supply. 
 
 Half Wave Rectifier
 
-
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
-
 
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
@@ -34,18 +32,80 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+![1](https://github.com/user-attachments/assets/c8f2ac20-79e4-4499-b004-3409783caa8f)
 
-Half wave rectifier with filter:
+![2](https://github.com/user-attachments/assets/247bcc36-0827-474f-9461-f6acd3293f8d)
 
-Bridge rectifier with filter:
+![3](https://github.com/user-attachments/assets/b5163953-4234-4f59-ac0c-12d11cfa8282)
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+![4](https://github.com/user-attachments/assets/fb220982-5d09-4e4b-81f2-771dd0e5385a)
 
-WAVEFORM:
+![5](https://github.com/user-attachments/assets/3b9c8df2-ef7e-42ed-9b89-7c35310b2934)
+
+![6](https://github.com/user-attachments/assets/c483b1ce-7246-4a65-89d1-aefad99fa0d9)
+
+![7](https://github.com/user-attachments/assets/2180fa48-fa8d-4def-9f5c-420abad2ccd6)
+
+![8](https://github.com/user-attachments/assets/6513a6bf-f0a8-4c30-8e96-ad4b5f84d098)
+
+![9](https://github.com/user-attachments/assets/14c4f686-cd41-4ff7-bd34-3b6a791db359)
+
+![10](https://github.com/user-attachments/assets/0eae0626-e1cc-4bed-82bc-aa034343a1e8)
+
+
+## OUTPUT 
+
+### Half wave rectifier with filter:
+
+![1](https://github.com/user-attachments/assets/ea3b5376-2fcf-4369-a4af-c56bab9a3895)
+
+
+
+### Half wave rectifier without filter:
+
+![2](https://github.com/user-attachments/assets/fd979e5b-a2f7-422c-b574-81cee5f38b6e)
+
+
+
+### Full wave rectifier without filter
+
+![3](https://github.com/user-attachments/assets/f89d857c-81c5-4d94-af31-dae8a63e0ad6)
+
+
+
+### Full wave rectifier with filter
+
+![4](https://github.com/user-attachments/assets/baa5b876-7347-4fef-90d8-3c522d605a2f)
+
+
+
+
+## WAVEFORM:
+
+### Half wave rectifier with filter:
+
+
+![5](https://github.com/user-attachments/assets/8367e60e-348a-437a-9465-e7402d590403)
+
+
+### Half wave rectifier without filter:
+
+
+![6](https://github.com/user-attachments/assets/4e97b640-cf65-42e3-adc7-ab3ba493115d)
+
+
+
+### Full wave rectifier with filter
+
+
+![7](https://github.com/user-attachments/assets/ebc4ea40-fbe0-40ae-9351-ec9b0097deaf)
+
+
+
+### Full wave rectifier without filter:
+
+![8](https://github.com/user-attachments/assets/576b93b1-a11c-4bc2-821e-f359312e16bb)
+
 
 
 RESULT:
